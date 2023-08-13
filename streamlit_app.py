@@ -1,8 +1,4 @@
 import os
-
-command = "pip install prophet"
-os.system(command)
-
 import pandas as pd
 from prophet import Prophet
 import streamlit as st

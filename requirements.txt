@@ -2,5 +2,5 @@ pandas
 streamlit
 datetime
 yfinance
-matplotlib
+matplotlib==3.4.2
 prophet

@@ -1,9 +1,7 @@
 pandas
-Prophet
 streamlit
 datetime
 date
 time
 yfinance
-matplotlib.pyplot
 os

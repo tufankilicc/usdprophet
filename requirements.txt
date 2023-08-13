@@ -1,5 +1,4 @@
 pandas
-prophet
 Prophet
 streamlit
 datetime

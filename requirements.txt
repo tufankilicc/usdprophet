@@ -4,4 +4,6 @@ datetime
 date
 time
 yfinance
+matplotlib
 os
+prophet
